@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 B.Tech CSE Student  <br>💡 Passionate about Machine Learning & Data Science  <br>⚙️ Focused on building practical, explainable ML systems  <br><br>I enjoy designing ML solutions that are not just accurate, but also interpretable and production-ready.
+🎓 B.Tech CSE Student  <br>💡 Machine Learning & Data Science Engineer  <br>⚙️ Focused on building practical, explainable ML systems  <br><br>I enjoy designing ML solutions that are not just accurate, but also interpretable and production-ready.
 
 
 ## 🌐 Socials:
