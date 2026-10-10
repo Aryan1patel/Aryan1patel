@@ -4,6 +4,14 @@ B.Tech CSE Student  <br> Machine Learning & Data Science Engineer  <br> Focused 
 ![snake animation](https://github.com/Aryan1patel/Aryan1patel/blob/output/github-contribution-grid-snake.svg)
 
 
+## 🐍 GitHub Contribution Snake
+
+![Light Snake](https://raw.githubusercontent.com/Aryan1patel/Aryan1patel/output/github-contribution-grid-snake.svg)
+
+![Dark Snake](https://raw.githubusercontent.com/Aryan1patel/Aryan1patel/output/github-contribution-grid-snake-dark.svg)
+
+
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aryanpatelap/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ppparyanpatel@gmail.com) 
 
