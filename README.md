@@ -6,9 +6,8 @@ B.Tech CSE Student  <br> Machine Learning & Data Science Engineer  <br> Focused 
 
 ## 🐍 GitHub Contribution Snake
 
-![Light Snake](https://raw.githubusercontent.com/Aryan1patel/Aryan1patel/output/github-contribution-grid-snake.svg)
+![Dark Snake Animation](https://raw.githubusercontent.com/Aryan1patel/Aryan1patel/output/github-contribution-grid-snake-dark.svg)
 
-![Dark Snake](https://raw.githubusercontent.com/Aryan1patel/Aryan1patel/output/github-contribution-grid-snake-dark.svg)
 
 
 
