@@ -1,12 +1,7 @@
 # About Me:
 B.Tech CSE Student  <br> Machine Learning & Data Science Engineer  <br> Focused on building practical, explainable ML systems  <br><br>I enjoy designing ML solutions that are not just accurate, but also interpretable and production-ready.
 
-![snake animation](https://github.com/Aryan1patel/Aryan1patel/blob/output/github-contribution-grid-snake.svg)
-
-
-## 🐍 GitHub Contribution Snake
-
-![Dark Snake Animation](https://raw.githubusercontent.com/Aryan1patel/Aryan1patel/output/github-contribution-grid-snake-dark.svg)
+![Dark GitHub Contribution Snake](https://raw.githubusercontent.com/Aryan1patel/Aryan1patel/output/github-contribution-grid-snake-dark.svg)
 
 
 
